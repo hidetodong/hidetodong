@@ -1,4 +1,7 @@
-## Hi there, HIDETOXIC here! 👋
+## HIDETOXIC here! 👋
+
+- 📫 How to reach me: hi@hidetoxic.tech
+- 👯 Portfolio: [Click Here!](http://portfolio.hidetoxic.tech)
 
 Do have FAITH in what you are doing！🫢
 
