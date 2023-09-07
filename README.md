@@ -1,6 +1,6 @@
 ## HIDETOXIC here! 👋
 
-- 📫 How to reach me: hi@hidetoxic.tech
+- 📫 How to reach me: hidetoxic@gmail.com
 - 👯 Portfolio: [Click Here!](http://portfolio.hidetoxic.tech)
 
 Do have FAITH in what you are doing！🫢
