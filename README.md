@@ -1,66 +1,53 @@
 <div align="center">
 
-# HIDETOXIC
+# HIDETOXIC here! 👋
 
-前端开发。最近在做两件公开的事：让 AI 按验收写代码，以及在 Mac 上只看、不改文件。
+### Frontend Developer · Product Builder · Curious Mind
+
+I build local-first tools and engineering workflows that make ideas easier to see, use, and remember.
 
 [![GitHub](https://img.shields.io/badge/GitHub-hidetodong-181717?style=flat-square&logo=github)](https://github.com/hidetodong)
 [![Email](https://img.shields.io/badge/Email-hidetoxic%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hidetoxic@gmail.com)
-[![Site](https://img.shields.io/badge/Site-hidetoxic.com-8B5CF6?style=flat-square)](https://hidetoxic.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=flat-square&logo=react&logoColor=white)](https://github.com/hidetodong/portfolio)
 
 </div>
 
-## 正在做
+## About me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🧩 I enjoy turning fuzzy ideas into polished, usable products.
+- ⚡ My daily toolkit revolves around **TypeScript, Vue, React, Vite, Node.js, and Python**.
+- 🌱 I am especially interested in local-first tools, developer experience, and AI-assisted workflows.
+- 💬 Ask me about frontend architecture, tooling, or building an idea from zero to one.
+- 📫 Reach me at **[hidetoxic@gmail.com](mailto:hidetoxic@gmail.com)**.
 
-### [Butler](https://github.com/hidetodong/butler)
+> Do have FAITH in what you are doing! 🫢
 
-给 AI 写代码用的验收流程，不是又一个代码框架。它是一套 Markdown 规则和配套工具：先写清要解决什么、什么算做完、准备怎么改，再动手。过程留在项目里的 `.ai/`，换一个会话还能接着做。Claude Code、Codex、Pi、Grok 共用这一套。
-
-Apache-2.0 · 当前 4.0.0
-
-</td>
-<td width="50%" valign="top">
-
-### [Aperio](https://github.com/hidetodong/aperio)
-
-Mac 上的文件查看器。PDF、图片、文本、代码、Word、Excel、PPT、常见音视频和 zip，都可以在本机打开。文件留在原地，应用不改原件。这一版要从源码构建，还没有可下载的安装包。
-
-MIT · macOS
-
-</td>
-</tr>
-</table>
-
-### [Knowledge Compass](https://github.com/hidetodong/knowledge-compass-skill)
-
-给 Claude Code 和 Codex 用的技能。丢进几个不熟的词，先判断它们属于哪个领域，再核对书、论文和课程这些权威来源，整理成一条分层的学习路线。
-
-## 更早的
-
-| 项目 | 是什么 |
-| --- | --- |
-| [resonance](https://github.com/hidetodong/resonance) | 本地优先的反思卡片，把不同时间的想法接起来。Vue 3。 |
-| [portfolio](https://github.com/hidetodong/portfolio) | 个人作品站。React。 |
-| [inspirer](https://github.com/hidetodong/inspirer) | 找更自然的表达。 |
-| [json-to-dts](https://github.com/hidetodong/json-to-dts) | 把 JSON 收成 TypeScript 类型声明。 |
-
-## 常用
-
-TypeScript、Vue、React、Vite、Node.js、Python。Aperio 的窗口壳用 Rust。
+## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,vue,react,vite,nodejs,python,rust,git&perline=8" alt="TypeScript, Vue, React, Vite, Node.js, Python, Rust, Git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,vite,nodejs,python,rust,git&perline=9" alt="TypeScript, JavaScript, Vue, React, Vite, Node.js, Python, Rust, and Git" />
 </p>
 
-> Do have FAITH in what you are doing.
+## Featured projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [butler](https://github.com/hidetodong/butler) | An acceptance-first workflow for AI engineering. Goals, plans, and evidence stay in the project, so a new session can continue the work. | Python |
+| [aperio](https://github.com/hidetodong/aperio) | A Mac app for viewing common files locally, without modifying the originals. | TypeScript · Rust |
+| [knowledge-compass](https://github.com/hidetodong/knowledge-compass-skill) | An agent skill that turns unfamiliar terms into a sourced, layered learning roadmap. | Python |
+| [resonance](https://github.com/hidetodong/resonance) | A local-first reflection card tool that connects thoughts across time. | Vue 3 · Vite · TypeScript |
+
+## GitHub activity
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidetodong&theme=radical" alt="HIDETOXIC 的 GitHub 贡献概览" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidetodong&theme=radical" alt="HIDETOXIC's GitHub contribution summary" />
   <br />
-  <img height="165" src="https://streak-stats.demolab.com?user=hidetodong&theme=radical&hide_border=true" alt="HIDETOXIC 的 GitHub 连续提交" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hidetodong&theme=radical" alt="HIDETOXIC 提交里用得最多的语言" />
+  <img height="165" src="https://streak-stats.demolab.com?user=hidetodong&theme=radical&hide_border=true" alt="HIDETOXIC's GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hidetodong&theme=radical" alt="HIDETOXIC's most used languages by commit" />
+</div>
+
+<div align="center">
+
+Thanks for stopping by — feel free to explore the repositories and say hello.
+
 </div>
